@@ -16,7 +16,6 @@ pytz==2020.1
 PyYAML==5.4.1
 requests==2.25.1
 scapy==2.4.4
-scapy-python3==0.26
 sqlparse==0.3.1
 static3==0.7.0
 texttable==1.6.3

@@ -57,7 +57,7 @@ ROOT_URLCONF = 'scanner.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, '../scannerapp')],
+        'DIRS': [os.path.join(BASE_DIR, './scannerapp')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

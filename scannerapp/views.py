@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-import scapy.all as scapy
+import scapy
 import socket
 
 # Create your views here.
